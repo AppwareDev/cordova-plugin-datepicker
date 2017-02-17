@@ -1,5 +1,7 @@
 # DatePicker Plugin for Cordova/PhoneGap 4.0 (iOS and Android and Windows)
 
+*** Adds a fix for an error in iOS when the datepicker is opened the second time https://github.com/VitaliiBlagodir/cordova-plugin-datepicker/pull/177 ***
+
 This is a combined version of DatePicker iOS and Android and Windows plugin for Cordova/Phonegap 4.0.
 - Original iOS version: https://github.com/sectore/phonegap3-ios-datepicker-plugin
 
